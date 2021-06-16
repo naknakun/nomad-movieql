@@ -1,0 +1,2 @@
+# nomad-movieql
+graphql study
